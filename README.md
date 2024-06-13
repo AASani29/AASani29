@@ -1,18 +1,12 @@
 ### 
 <div id="header" align="center">
 
-  <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Ahmed Alfey Sani</h1>
+  <h1>Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35"> I'm Ahmed Alfey Sani</h1>
   <h3>A Software Engineer Major undergraduate</h3>
   
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
   
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ahmed-alfey-sani-8a9649211/">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/alfey.sani.5/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+ 
 </div>
   
   
