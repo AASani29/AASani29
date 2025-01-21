@@ -95,8 +95,15 @@
 
 ## Github Stats &nbsp;📊
 <br>
-<p align='center'>
+<p align='left'>
 <img src="https://github-readme-stats.vercel.app/api?username=AASani29&show_icons=true&theme=github_dark">
+</p>
+<p align='right'>
+
+<a>
+    <img src="https://streak-stats.demolab.com/?user=AASani29&theme=dark)](https://git.io/streak-stats)">
+  </a>
+
 </p>
 <hr>
 <br>
@@ -111,6 +118,6 @@
 <br>
 
 ------
-Credit: [Ahmed Alfey Sani](https://github.com/AhmedAlfeySani)
+Credit: [Ahmed Alfey Sani](https://github.com/AASani29/)
 
 Last Edited on: 01/21/2025
