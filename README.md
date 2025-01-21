@@ -1,186 +1,116 @@
-### 
-<div id="header" align="center">
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmed+Alfey+Sani;Software+Engineer;Java+Developer;Fullstack+Developer;AI+%7C+ML+Applications">
+</p>
+<img src="https://komarev.com/ghpvc/?username=AhmedAlfeySani&label=Profile%20views&color=0047AB&style=plastic?" alt="AhmedAlfeySani" height=25px, width=160px/> 
 
-  <h1>Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35"> I'm Ahmed Alfey Sani</h1>
-  <h3>A Software Engineer Major undergraduate</h3>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-  
- 
-</div>
-  
-  
-   
-</div>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
----
+- 🌱 I’m currently learning **Blockchain and AI Applications**
 
-###  About Me :
+- 👨‍💻 Explore my projects at [AhmedAlfeySani.dev](https://github.com/AASani29)
 
-- 🔭 I’m currently Studying at ***Islamic University of Technology ***
-- 🌱 I’m currently learning **Java Spring Boot**
-- 💬 Ask me about **Web Dev & OOP**
-- 📫 Mail: alfey2001sani@gmail.com
-- ⚡ Fun fact: When it's a **Different** Error message, It's Progress ✨
+- 💬 Ask me about **Java, React, AI/ML Applications**
 
----
-
-###  Languages
-
-<div>
-
-  
-  
-  <a href="https://www.w3schools.com/cpp/cpp_intro.asp">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://www.java.com/en/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  </a>
-
- 
-
-
-  
-<!--   
-  <a href="https://dart.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  </a>
--->
-
-</div>
-
-###  Frontend Development
-
-<div>
-
-  <a href="https://html.com/html5/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.w3schools.com/css/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  </a>
-  
-
-  <a href="https://tailwindcss.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </a>
-
- 
-  
-  <a href="https://react.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/react/react-original.svg"  title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  </a>
-  
-</div>
-
-###  Backend Development
-
-<div>
-
-<!--   
-  <a href="https://azure.microsoft.com/en-us">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  </a>
-
--->
-  
-
- 
-
-  <a href="https://nodejs.org/en">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  </a>
-
-  <a href="https://www.mongodb.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  </a>
+- 📫 Reach me at **ahmedalfey@iut-dhaka.edu**
 
 
 
-  </div>
 
-<!--
+### Connect with me 🔗 :
+<br>
+<p align='center'>
+<a href="mailto:ahmedalfey@iut-dhaka.edu" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmed-alfey-sani/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+<br>
 
-  ### Mobile Development
-
-<div>
-
-  <a href="https://developer.android.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  </a>
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 
-  <a href="https://kotlinlang.org/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  </a>
+### Programming Languages
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</a>
 
-  <a href="https://flutter.dev/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  </a>
-  
-</div>
+### Frameworks and Tools
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</a>
+<a href="https://wordpress.org/" target="_blank">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
 
--->
+### Cloud Platforms
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</a>
 
-### Design
+### Databases
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
 
-<div>
-  
-  <a href="https://www.figma.com/ui-design-tool/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://www.adobe.com/products/illustrator.html">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://www.adobe.com/products/premiere.html">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
-  
-</div>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-### Tools
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=AASani29&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
 
-<div>
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AASani29&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
 
-  <a href="https://www.latex-project.org/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/latex/latex_white.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
-  </a>
+<hr>
+<br>
 
-  <a href="https://git-scm.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </a>
+------
+Credit: [Ahmed Alfey Sani](https://github.com/AhmedAlfeySani)
 
-   <a href="https://www.docker.com/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  </a>
-
-<!-- 
-  <a href="https://kubernetes.io/">
-  <img src="https://github.com/hasin023/DevIcons/blob/main/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
-  </a>
--->
-</div>
+Last Edited on: 01/21/2025
