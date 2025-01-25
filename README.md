@@ -1,19 +1,19 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Hi! I'm Ahmed Alfey Sani <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmed+Alfey+Sani;Software+Engineer;Java+Developer;Fullstack+Developer;AI+%7C+ML+Applications">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Software+Engineer;Fullstack+Developer;Java+Developer;AI+%7C+ML+Applications">
 </p>
 <img src="https://komarev.com/ghpvc/?username=AhmedAlfeySani&label=Profile%20views&color=0047AB&style=plastic?" alt="AhmedAlfeySani" height=25px, width=160px/> 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Blockchain and AI Applications**
+- I’m currently learning **Blockchain and AI Applications**
 
-- 👨‍💻 Explore my projects at [AhmedAlfeySani.dev](https://github.com/AASani29)
+- Explore my projects at [AhmedAlfeySani.dev](https://github.com/AASani29)
 
-- 💬 Ask me about **Java, React, AI/ML Applications**
+- Ask me about **Java, React, AI/ML Applications**
 
-- 📫 Reach me at **ahmedalfey@iut-dhaka.edu**
+- Reach me at **ahmedalfey@iut-dhaka.edu**
 
 
 
