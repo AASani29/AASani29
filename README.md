@@ -90,34 +90,3 @@
 <a href="https://www.postgresql.org/" target="_blank">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
-## Github Stats &nbsp;📊
-<br>
-<p align='left'>
-<img src="https://github-readme-stats.vercel.app/api?username=AASani29&show_icons=true&theme=github_dark">
-</p>
-<p align='right'>
-
-<a>
-    <img src="https://streak-stats.demolab.com/?user=AASani29&theme=dark)](https://git.io/streak-stats)">
-  </a>
-
-</p>
-<hr>
-<br>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AASani29&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-
-<hr>
-<br>
-
-------
-Credit: [Ahmed Alfey Sani](https://github.com/AASani29/)
-
-Last Edited on: 01/21/2025
