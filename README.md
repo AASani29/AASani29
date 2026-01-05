@@ -114,14 +114,58 @@
 
 ## 💼 Professional Experience
 
-```mermaid
-timeline
-    title Career Journey
-    Oct 2025 - Present : Junior Software Engineer @ Intelligent Machines Limited
-    Oct 2024 - Present : Assistant Event Management Executive @ IUT Computer Society
-    Jul 2024 - Sep 2024 : Intern @ DISA (Development Initiative for Social Advancement)
-    2022 - Present : BSc Software Engineering @ Islamic University of Technology
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Junior Software Engineer
+**[Intelligent Machines Limited](https://intelmachines.ai/)**
+
+📅 Oct 2025 – Present  
+📍 Dhaka, Bangladesh
+
+Working on fullstack development for multiple products serviced to MNCs including **Unilever**, **bKash**, and others. Contributing to scalable enterprise solutions and modern web applications.
+
+**Key Responsibilities:**
+- Developing and maintaining enterprise-grade applications
+- Collaborating with cross-functional teams
+- Implementing modern web technologies
+- Ensuring code quality and best practices
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Intern
+**[Development Initiative for Social Advancement (DISA)](https://www.disabd.org/)**
+
+📅 July 2024 – Sep 2024  
+📍 Dhaka, Bangladesh
+
+Collaborated with IT section and learned about NGO landscape, microfinance, and technology integration in social development sector.
+
+**Key Learnings:**
+- NGO operations and management
+- Microfinance systems and processes
+- Technology integration in social initiatives
+- Real-world IT solutions for non-profits
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎓 Education
+
+<div align="center">
+
+**Bachelor of Science in Software Engineering**  
+Islamic University of Technology (IUT)  
+📅 2022 – Present | 📍 Dhaka, Bangladesh
+
+</div>
 
 ---
 
@@ -139,42 +183,16 @@ timeline
 - 💬 **Natural Language Processing (NLP)** - Advanced text processing and understanding
 - 📊 **Data Augmentation** - Enhancing datasets for better model performance
 - 🔬 **AI/ML Research** - Conducting research in the domain of NLP and LLMs
-- ⛓️ **Blockchain & Web3 Development** - Decentralized applications
 - ☁️ **Cloud-Native Applications** - AWS and Azure architectures
 - 🏗️ **System Design & Scalable Architecture** - Building robust systems
 
 ### 🛠️ What I'm Building
 
-- 🚀 Scalable microservices for enterprise clients 
+- 🚀 Scalable microservices for enterprise clients
 - 🤖 AI-powered solutions addressing real-world challenges
 - 🔬 Research projects in NLP and LLM applications
 - 🌟 Open-source contributions to impactful projects
 - 📱 Mobile applications with cutting-edge technologies
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-I'm always excited to collaborate on innovative projects, discuss technology, or explore new opportunities!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmedalfeysani.me-FF5722?style=for-the-badge)](https://ahmedalfeysani.me)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge)](mailto:ahmedalfey@iut-dhaka.edu)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ahmed-alfey-sani/)
-
-### ⚡ Quick Stats
-
-![](https://img.shields.io/badge/Focus-FullStack_Development-blue?style=flat-square)
-![](https://img.shields.io/badge/Expertise-AI/ML_Applications-green?style=flat-square)
-![](https://img.shields.io/badge/Lives-Dhaka,_Bangladesh-orange?style=flat-square)
-![](https://img.shields.io/badge/Projects-9+_Completed-brightgreen?style=flat-square)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
 
 ---
 
