@@ -30,9 +30,9 @@
 🏆 **2nd Runner-Up** at Technocrats V.2 Hackathon  
 🎯 **Top 24** Finalist at KUET Bitfest 2025  
 ⚡ Fun fact: **I turn coffee into code** ☕💻
-
-<br clear="right"/>
-
+<br/>
+<br/>
+<br/>
 ### 📍 Based in Dhaka, Bangladesh
 ### 🌐 Explore my work at [ahmedalfeysani.me](https://ahmedalfeysani.me)
 
